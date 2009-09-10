@@ -3,7 +3,7 @@
 Summary: A debugger which detects memory allocation violations
 Name: electricfence
 Version: 2.2.2
-Release: %mkrel 1
+Release: %mkrel 2
 License: GPLv2
 Group: Development/Other
 URL: http://perens.com/FreeSoftware/ElectricFence/
