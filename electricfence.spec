@@ -6,7 +6,7 @@ Version: 2.2.2
 Release: %mkrel 2
 License: GPLv2
 Group: Development/Other
-URL: http://perens.com/FreeSoftware/ElectricFence/
+URL: https://perens.com/FreeSoftware/ElectricFence/
 
 # ftp://ftp.perens.com/pub/ElectricFence/beta/ used to be here, but
 # the site is inaccessible as of lately
